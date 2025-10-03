@@ -1,0 +1,24 @@
+<svg version="1.0" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 340 250" color-interpolation-filters="sRGB" style="margin:auto">
+  <!-- Removed background and watermark rects -->
+  <g fill="#507d85" class="iconlettersvg-g iconlettersvg">
+    <g class="tp-name">
+      <g transform="translate(131.658 100)" class="name-imagesvg">
+        <path class="image-rect" fill="none" d="M0 0h38.801v50H0z"/>
+        <svg width="38.801" height="50" class="image-svg-svg primary" style="overflow:visible">
+          <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 45.91 59.09">
+            <path d="M36.76 7.62a26.4 26.4 0 0 0-10.07-5.86C23.27.59 18.55 0 12.68 0H.17v1h12.51c5.77 0 10.37.57 13.71 1.71a25.5 25.5 0 0 1 9.71 5.63c5.87 5.35 8.84 12.48 8.84 21.2s-3.1 15.92-9.21 21.32A27.1 27.1 0 0 1 26 56.52c-3.15 1.06-7.69 1.59-13.51 1.59H.17v1h12.36c5.93 0 10.57-.56 13.81-1.64a28.1 28.1 0 0 0 10-5.86c6.33-5.59 9.53-13 9.53-22.05s-3.04-16.4-9.11-21.94"/>
+            <path d="M.49 50.86h12.72a33.7 33.7 0 0 0 10-1.27 20.7 20.7 0 0 0 7.25-4.28 20.44 20.44 0 0 0 6.63-15.76c0-6.48-2.21-11.82-6.56-15.86-3.91-3.61-9.73-5.44-17.3-5.44H0v42.6h.49zM9.74 9.22h3.47c7.32 0 12.92 1.74 16.64 5.17 4.14 3.86 6.24 9 6.24 15.15a19.43 19.43 0 0 1-13.21 19.11 32.5 32.5 0 0 1-9.67 1.22H9.74z"/>
+          </svg>
+        </svg>
+      </g>
+      <g transform="translate(170.458 100)" class="name-imagesvg">
+        <path class="image-rect" fill="none" d="M0 0h37.883v50H0z"/>
+        <svg width="37.883" height="50" class="image-svg-svg primary" style="overflow:visible">
+          <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 44.77 59.09">
+            <path d="M17.97 26.83 44.76 0H31.67L9.74 22.48V0H0v34.24L32.08.97h10.33l-25.76 25.8L42.7 58.11H32.22L11.1 32.02 0 43.4v15.69h9.74V34.75l1.29-1.28 20.73 25.62h13.01z"/>
+          </svg>
+        </svg>
+      </g>
+    </g>
+  </g>
+</svg>
